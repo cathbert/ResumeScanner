@@ -28,7 +28,5 @@ def main(document):
     input()
 
 
-
 if __name__ == '__main__':
-    main('PyCharm')
-
+    main('myCV.docx')
